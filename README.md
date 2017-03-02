@@ -19,6 +19,7 @@ Follow a list with free _and open-source_ books about front-end.
 
 ### Javascript
 
+- [Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/) _([Addy Osmani](http://twitter.com/addyosmani))_
 - [Eloquent Javascript](http://braziljs.github.io/eloquente-javascript/) _([Brazil JS](https://github.com/braziljs))_ <span>&#x1f1e7;&#x1f1f7;</span>
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) _([Addy Osmani](http://twitter.com/addyosmani))_
 

@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kvnol/frontend-books/master/LICENSE)
 
-Follow a list with free books (just free) about front-end.
+Follow a list with free _and open-source_ books about front-end.
 
 ### Front-end
 

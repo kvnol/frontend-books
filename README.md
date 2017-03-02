@@ -11,6 +11,7 @@ Follow a list with free _and open-source_ books about front-end.
 
 ### HTML
 
+- [Dive Into HTML5](https://diveintohtml5.com.br/) _([Mark Pilgrim](https://github.com/diveintomark))_ <span>&#x1f1e7;&#x1f1f7;</span>
 - [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) _([Steve Fulton](https://github.com/SteveFulton95) and Jeff Fulton)_
 
 ### CSS

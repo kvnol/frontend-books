@@ -6,6 +6,7 @@ Follow a list with free _and open-source_ books about front-end.
 
 ### Front-end
 
+- [Adaptive Web Design](https://adaptivewebdesign.info/1st-edition/) _([Aaron Gustafson](https://www.aaron-gustafson.com/))_
 - [Front-End Developer Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/) _(Front-end Masters)_
 - [Workflow Front-end](https://www.gitbook.com/book/tapmorales/workflow-front-end/) _([Daniel Tapias](https://github.com/tapmorales))_ <span>&#x1f1e7;&#x1f1f7;</span>
 

@@ -13,7 +13,7 @@ Follow a list with free _and open-source_ books about front-end.
 
 ### CSS
 
-- [Bootstrap 3.3.5](http://livrosdomaujor.com.br/bootstrap3/codigos.html) _([Maujor](http://maujor.com))) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Bootstrap 3.3.5](http://livrosdomaujor.com.br/bootstrap3/codigos.html) _([Maujor](http://maujor.com))_ <span>&#x1f1e7;&#x1f1f7;</span>
 
 ### Javascript
 

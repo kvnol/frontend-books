@@ -13,10 +13,12 @@ Follow a list with free _and open-source_ books about front-end.
 
 ### CSS
 
+- [Bootstrap 3.3.5](http://livrosdomaujor.com.br/bootstrap3/codigos.html) _([Maujor](http://maujor.com))) <span>&#x1f1e7;&#x1f1f7;</span>
+
 ### Javascript
 
 - [Eloquent Javascript](http://braziljs.github.io/eloquente-javascript/) _([Brazil JS](https://github.com/braziljs))_ <span>&#x1f1e7;&#x1f1f7;</span>
-- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) _([Andy Osmani](http://twitter.com/addyosmani))_
+- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) _([Addy Osmani](http://twitter.com/addyosmani))_
 
 ## License
 

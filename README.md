@@ -15,6 +15,8 @@ Follow a list with free _and open-source_ books about front-end.
 
 ### Javascript
 
+- [Eloquent Javascript](http://braziljs.github.io/eloquente-javascript/) _([Brazil JS](https://github.com/braziljs))_ <span>&#x1f1e7;&#x1f1f7;</span>
+
 ## License
 
 MIT © Kevin Oliveira

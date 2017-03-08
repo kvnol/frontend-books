@@ -29,4 +29,4 @@ Follow a list with free _and open-source_ books about front-end.
 
 ## License
 
-MIT © Kevin Oliveira
+[MIT](https://raw.githubusercontent.com/kvnol/frontend-books/master/LICENSE) © Kevin Oliveira

@@ -25,7 +25,8 @@ Follow a list with free _and open-source_ books about front-end.
 - [Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/) _([Addy Osmani](http://twitter.com/addyosmani))_
 - [Eloquent Javascript](http://braziljs.github.io/eloquente-javascript/) _([Marijn Haverbeke](https://github.com/marijnh) | [Brazil JS](https://github.com/braziljs))_ :brazil:
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) _([Addy Osmani](http://twitter.com/addyosmani))_
-- [Javascript Furtivo](https://leanpub.com/javascriptfurtivo)  :brazil:
+- [Javascript Furtivo](https://leanpub.com/javascriptfurtivo) :brazil:
+- [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 - [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) _([Boris Smus](http://smus.com/))_
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 

@@ -27,6 +27,7 @@ Follow a list with free _and open-source_ books about front-end.
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) _([Addy Osmani](http://twitter.com/addyosmani))_
 - [Javascript Furtivo](https://leanpub.com/javascriptfurtivo)  :brazil:
 - [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) _([Boris Smus](http://smus.com/))_
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## License
 

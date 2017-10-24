@@ -30,6 +30,10 @@ Follow a list with free _and open-source_ books about front-end.
 - [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) _([Boris Smus](http://smus.com/))_
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+### Git
+
+- [Pro-Git](https://leanpub.com/pro-git)
+
 ## License
 
 [MIT](https://raw.githubusercontent.com/kvnol/frontend-books/master/LICENSE) © Kevin Oliveira
